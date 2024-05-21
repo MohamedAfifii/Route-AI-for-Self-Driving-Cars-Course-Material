@@ -1,0 +1,2 @@
+This repo contains the course material (code and slides) for my AI course at Route Academy.
+Course videos will be uploaded to [my Youtube channel](https://www.youtube.com/channel/UCllIGsPm1NYq5jPu2HzQgIg) إن شاء الله
